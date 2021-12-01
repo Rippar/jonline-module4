@@ -57,7 +57,7 @@ public class Counter {
 			this.count++;
 
 		} else {
-			System.out.println("Значение счетчика достигло максимума");
+			System.out.println("Р—РЅР°С‡РµРЅРёРµ СЃС‡РµС‚С‡РёРєР° РґРѕСЃС‚РёРіР»Рѕ РјР°РєСЃРёРјСѓРјР°");
 		}
 
 	}
@@ -68,7 +68,7 @@ public class Counter {
 			this.count--;
 
 		} else {
-			System.out.println("Значение счетчика достигло минимума");
+			System.out.println("Р—РЅР°С‡РµРЅРёРµ СЃС‡РµС‚С‡РёРєР° РґРѕСЃС‚РёРіР»Рѕ РјРёРЅРёРјСѓРјР°");
 		}
 
 	}
